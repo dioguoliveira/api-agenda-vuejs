@@ -9,6 +9,9 @@ O Front-end de Agenda é um pequeno desafio que recebi para o processo de seleç
 
 
 ```
+# clonar o Projeto 
+git clone https://github.com/dioguoliveira/frontend-agenda-vuejs
+
 # instalar todas as dependências
 yarn install
 

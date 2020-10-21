@@ -23,6 +23,7 @@ export default new Router({
       },
       children: [
         { path: '/contatos', component: Contato },
+        { path: '/', component: Contato },
       ]
     }
   ]
