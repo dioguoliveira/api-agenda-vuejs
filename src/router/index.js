@@ -4,7 +4,7 @@ import store from './../store';
 
 import Main from './../pages/Main';
 
-import Blank from './../pages/Blank';
+import Contato from './../pages/Contato';
 
 Vue.use(Router);
 
@@ -22,7 +22,7 @@ export default new Router({
         }
       },
       children: [
-        { path: '/contatos', component: Blank },
+        { path: '/contatos', component: Contato },
       ]
     }
   ]

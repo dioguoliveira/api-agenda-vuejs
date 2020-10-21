@@ -20,8 +20,6 @@ import SidebarMenu from "./../components/main/SidebarMenu";
 import Footer from "./../components/main/Footer";
 
 function resizeWindow() {
-  console.log("window.innerHeight", window.innerHeight);
-  console.log("window.innerWidth", window.innerWidth);
 }
 
 export default {
